@@ -1,0 +1,48 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "win01Name": {
+            "value": null
+        },
+        "win01AdminUserName": {
+            "value": null
+        },
+        "win02Name": {
+            "value": null
+        },
+        "ubuntu01Name": {
+            "value": null
+        },
+        "ubuntu01AdminUserName": {
+            "value": null
+        },
+        "ubuntu02Name": {
+            "value": null
+        },
+        "win01Nic-pipDnsName": {
+            "value": null
+        },
+        "win02Nic-pipDnsName": {
+            "value": null
+        },
+        "ubuntu01Nic-pipDnsName": {
+            "value": null
+        },
+        "ubuntu02Nic-pipDnsName": {
+            "value": null
+        },
+        "workspaceId": {
+            "value": null
+        },
+        "workspaceKey": {
+            "value": null
+        },
+        "aswinName": {
+            "value": null
+        },
+        "asubuntuName": {
+            "value": null
+        }
+    }
+}
